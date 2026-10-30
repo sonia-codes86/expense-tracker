@@ -1,0 +1,14 @@
+[
+    {
+        "titel": "قهوه",
+        "amount": 65000,
+        "category": "خوراکي",
+        "description": "کافه"
+    },
+    {
+        "titel": "کت چرم",
+        "amount": 1500000,
+        "category": "بوشاک",
+        "description": "..."
+    }
+]
